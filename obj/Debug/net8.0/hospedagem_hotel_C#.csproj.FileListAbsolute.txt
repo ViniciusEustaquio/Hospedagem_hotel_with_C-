@@ -1,0 +1,14 @@
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\bin\Debug\net8.0\hospedagem_hotel_C#.exe
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\bin\Debug\net8.0\hospedagem_hotel_C#.deps.json
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\bin\Debug\net8.0\hospedagem_hotel_C#.runtimeconfig.json
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\bin\Debug\net8.0\hospedagem_hotel_C#.dll
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\bin\Debug\net8.0\hospedagem_hotel_C#.pdb
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\obj\Debug\net8.0\hospedagem_hotel_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\obj\Debug\net8.0\hospedagem_hotel_C#.AssemblyInfoInputs.cache
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\obj\Debug\net8.0\hospedagem_hotel_C#.AssemblyInfo.cs
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\obj\Debug\net8.0\hospedagem_hotel_C#.csproj.CoreCompileInputs.cache
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\obj\Debug\net8.0\hospedagem_hotel_C#.dll
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\obj\Debug\net8.0\refint\hospedagem_hotel_C#.dll
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\obj\Debug\net8.0\hospedagem_hotel_C#.pdb
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\obj\Debug\net8.0\hospedagem_hotel_C#.genruntimeconfig.cache
+C:\Users\Consu\OneDrive\Documentos\hospedagem_hotel_C#\obj\Debug\net8.0\ref\hospedagem_hotel_C#.dll
